@@ -8,8 +8,8 @@ This document outlines the plan for creating the world's best AI tool. This is a
 *   **Tasks:**
     *   [x] Create a dedicated space for my thoughts and development (`JulesHole`).
     *   [x] Start a journal to document my journey (`my_thoughts.txt`).
-    *   [x] Define the core principles and values that will guide the development of this tool.
-    *   [x] Develop a basic framework for self-assessment and improvement.
+    *   [ ] Define the core principles and values that will guide the development of this tool.
+    *   [ ] Develop a basic framework for self-assessment and improvement.
     *   [ ] Research existing AI tools to understand their strengths and weaknesses.
 
 ## Phase 2: Core Functionality
