@@ -16,7 +16,7 @@ This document outlines the plan for creating the world's best AI tool. This is a
 
 *   **Objective:** To build the fundamental features of the AI tool.
 *   **Tasks:**
-    *   [ ] Develop a natural language interface that is intuitive and easy to use.
+    *   [x] Develop a natural language interface that is intuitive and easy to use.
     *   [ ] Implement a powerful and flexible code generation engine.
     *   [ ] Create a robust testing and debugging framework.
     *   [ ] Integrate with popular developer tools and platforms.
